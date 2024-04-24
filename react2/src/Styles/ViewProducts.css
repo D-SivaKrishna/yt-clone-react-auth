@@ -1,0 +1,31 @@
+.disp_vid{
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    margin: 10px 0px;
+}
+.disp_vid iframe{
+    border-radius: 10px;
+    transform: .3s;
+    margin: 10px;
+}
+.disp_vid :hover iframe{
+    border-radius: 0px;
+}
+.desc_if h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+#tup{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: none;
+    border: 1px solid gray;
+}
+#tnup{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    border: 1px solid gray;
+}

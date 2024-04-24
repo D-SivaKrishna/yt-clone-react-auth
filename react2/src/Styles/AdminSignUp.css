@@ -1,0 +1,10 @@
+#AdminSignUp fieldset{
+display: grid;
+grid-template-columns: 200px 200px;
+}
+#AdminSignUp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

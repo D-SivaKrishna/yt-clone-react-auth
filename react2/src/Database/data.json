@@ -1,0 +1,77 @@
+{
+  "Admin": [
+    {
+      "id": "d1c0",
+      "email": "siva@gmail.com",
+      "name": "siva",
+      "phno": "0123456789",
+      "password": "123456"
+    },
+    {
+      "id": "7776",
+      "email": "donelasivakrishna7002@gmail.com",
+      "name": "SivaKrishna",
+      "phno": "9703447002",
+      "password": "Siva@123",
+      "town": ""
+    },
+    {
+      "id": "bfdf",
+      "email": "hem@123",
+      "name": "khgi",
+      "phno": "1234567890",
+      "password": "123456",
+      "town": "Kadapa"
+    }
+  ],
+  "Videos": [
+    {
+      "name": " Jurassic World",
+      "desc": "Since the beginning, Velociraptors have shown they're not something you want to mess with. We've put together the Best Velociraptor Scenes from every Jurassic film in 4K HDR to show you just what we're talking about!  ",
+      "address": "https://www.youtube.com/embed/WCrmkX35Xks?si=hdMQfnCxQhMbzQxH",
+      "likes": "143",
+      "views": "145",
+      "id": "0cc4"
+    },
+    {
+      "id": "1909",
+      "name": "Ghost Rider vs. Blackheart Scene - Ghost Rider (2007) Nicolas Cage",
+      "desc": "Ghost Rider Movie Clip - Ghost Rider vs. Blackheart (2007) | Buy or rent the movie here",
+      "address": "https://www.youtube.com/embed/_IKK9Qba16Q?si=257bG9KAgE7A1XHS",
+      "likes": "700",
+      "views": "4002"
+    },
+    {
+      "id": "0dc1",
+      "name": "Kurchi Madathapetti Full Video Song | Guntur Kaaram | Mahesh Babu | Sreeleela | Trivikram | Thaman S",
+      "desc": "Presenting the mass treat for the audienc",
+      "address": "https://www.youtube.com/embed/gh3FyLT7WVg?si=OhphRQcO78AiI_9p",
+      "likes": "8000",
+      "views": "78411120"
+    },
+    {
+      "id": "514a",
+      "name": "PRIVATE PARTY Full Video Song || \"Sarrainodu\" || Allu Arjun, Rakul Preet || Telugu Songs 2016",
+      "desc": "T-Series Telugu presents \"PRIVATE PARTY VIDEO SONG\" from latest Telugu movie Sarrainodu starring Allu Arjun, Rakul Preet Singh, Srikanth, Aadhi Pinisetti, Catherine Tresa while music is composed by SS THAMAN.",
+      "address": "https://www.youtube.com/embed/_WCQkPLiNro?si=rCN12JKQiXxmxr4E",
+      "likes": "789",
+      "views": "1254"
+    },
+    {
+      "id": "54b7",
+      "name": "Saaho: Bad Boy Full Video Song | Prabhas, Jacqueline Fernandez | Badshah, Neeti Mohan",
+      "desc": "Presenting the full video of the rocking track \"Bad Boy\" from upcoming movie Saaho. It is a Multi-Lingual Indian Movie ft. Rebel Star Prabhas and Shraddha Kapoor, Directed by Sujeeth and Produced by Vamsi & Pramod. This new song is sung by Badshah, Neeti Mohan, composed by Badshah and written by Sreejo",
+      "address": "https://www.youtube.com/embed/owTs8Ha6Nao?si=2uJRyxHr-jpC0JHj",
+      "likes": "7894",
+      "views": "153451"
+    },
+    {
+      "id": "8f7c",
+      "name": "DILBAR Full Song | Satyameva Jayate | John Abraham Nora Fatehi ",
+      "desc": "Presenting the full video song 'Dilbar\" sung by Neha Kakkar, Dhvani Bhanushali, Ikka, music given by Tanishk Bagchi and lyrics are penned by Shabbir Ahmed, Ikka of the upcoming Bollywood film of 201",
+      "address": "https://www.youtube.com/embed/TRa9IMvccjg?si=mc_aSimBwqgsoGWu",
+      "likes": "7861",
+      "views": "2481224"
+    }
+  ]
+}

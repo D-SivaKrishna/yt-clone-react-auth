@@ -1,0 +1,31 @@
+.landingpage{
+    display: flex;
+    border: 10px solid black;
+    position: relative;
+    text-align: center;
+    top: 200px;
+    left: 500px;
+    width: 600px;
+    padding: 10px 20px;
+}
+.landingpage img{
+    height: 250px;
+    width: 250px;
+    border-radius: 300px;
+}
+.landingpage a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: cursive;
+    color: black;
+}
+.landingpage h3{
+    font-weight: 100;
+}
+.landingpage img:hover{
+   
+    transform: scale(1.1);
+}
+.landingpage a:hover{
+    color: red;
+}
