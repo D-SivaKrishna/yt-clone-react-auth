@@ -1,4 +1,4 @@
-**React YouTube Clone with Authentication**
+# React YouTube Clone with Authentication
 
 _This project is a YouTube Clone build using React.js 🚀._
 
